@@ -1,0 +1,7 @@
+// Enum representing the three types of patient categories
+public enum PatientCategory {
+    INPATIENT,
+    OUTPATIENT,
+    EMERGENCY
+}
+
